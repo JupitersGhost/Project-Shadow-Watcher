@@ -12,9 +12,9 @@ and evaluate their relevance to the CHIRASU infrastructure.
 
 It consists of two independent but coordinated operatives:
 
--   **Rena (CobraShadow)** --- Threat acquisition and structured
+-   **Rena (jupiterShadows)** --- Threat acquisition and structured
     intelligence generation
--   **Astrae (CobraIsolation)** --- Autonomous threat analysis and
+-   **Astrae (jupiterIsolation)** --- Autonomous threat analysis and
     infrastructure-specific risk assessment
 
 ShadowWatcher continuously monitors vulnerability feeds, collects threat
